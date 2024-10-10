@@ -23,6 +23,16 @@ Localizar bairros da cidade de Sâo Paulo através do desenvolvimento de softwar
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSevero&layout=compact&hide_border=true&title_color=1E90FF&text_color=1E90FF&bg_color=0d1117" />
 </div>
 
+### Other Knowledge:
+![Azure](https://img.icons8.com/?size=100&id=81727&format=png&color=000000)&nbsp;
+![VisualStudio](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)&nbsp;
+![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)&nbsp;
+![CGP](https://img.icons8.com/?size=100&id=WHRLQdbEXQ16&format=png&color=000000)&nbsp;
+
+
+
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{marceloses}/count.svg" /></p> 
